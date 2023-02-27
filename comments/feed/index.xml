@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires pour Neuilly-le-Brignon &#8211; Site officiel	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Bienvenue sur le site officiel de la mairie de Neuilly-le-Brignon</description>
+	<lastBuildDate>Sun, 26 Feb 2023 17:56:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Commentaires sur Mon première article WP par Neuilly-le-Brignon-Admin		</title>
+		<link>/mon-premiere-article-wp/#comment-2</link>
+
+		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 17:56:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5#comment-2</guid>
+
+					<description><![CDATA[test]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Commentaires sur Bonjour tout le monde ! par Un commentateur ou commentatrice WordPress		</title>
+		<link>/bonjour-tout-le-monde/#comment-1</link>
+
+		<dc:creator><![CDATA[Un commentateur ou commentatrice WordPress]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 17:49:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+
+					<description><![CDATA[Bonjour, ceci est un commentaire.
+Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
+Les avatars des personnes qui commentent arrivent depuis &lt;a href=&quot;https://fr.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Bonjour, ceci est un commentaire.<br />
+Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.<br />
+Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
