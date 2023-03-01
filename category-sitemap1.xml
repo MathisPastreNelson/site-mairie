@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/wordpress/sitemaps_xsl.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost/wordpress/category/non-classe/</loc>
+</url>
+<url>
+<loc>http://localhost/wordpress/category/sport/</loc>
+</url>
+<url>
+<loc>http://localhost/wordpress/category/uncategorized/</loc>
+</url></urlset>

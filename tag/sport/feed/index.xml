@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Sport &#8211; Neuilly-le-Brignon &#8211; Site officiel</title>
-	<atom:link href="/tag/sport/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/wordpress/tag/sport/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/wordpress</link>
 	<description>Bienvenue sur le site officiel de la mairie de Neuilly-le-Brignon</description>
-	<lastBuildDate>Tue, 03 May 2016 20:23:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Mar 2023 21:46:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,113 +21,11 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/02/logo-100x100.jpg</url>
+	<url>http://localhost/wordpress/wp-content/uploads/2023/03/cropped-logo-32x32.png</url>
 	<title>Sport &#8211; Neuilly-le-Brignon &#8211; Site officiel</title>
-	<link></link>
+	<link>http://localhost/wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Sociosqu ad litora torquent</title>
-		<link>/sociosqu-ad-litora-torquent/</link>
-					<comments>/sociosqu-ad-litora-torquent/#respond</comments>
-		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
-		<pubDate>Tue, 03 May 2016 20:23:54 +0000</pubDate>
-				<category><![CDATA[Sport]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/sport/torquent-per-conubia-nostra-copy-6/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-		
-					<wfw:commentRss>/sociosqu-ad-litora-torquent/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Vestibulum sapin prin quam</title>
-		<link>/vestibulum-sapin-prin-quam/</link>
-					<comments>/vestibulum-sapin-prin-quam/#respond</comments>
-		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
-		<pubDate>Tue, 03 May 2016 20:23:47 +0000</pubDate>
-				<category><![CDATA[Sport]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/sport/torquent-per-conubia-nostra-copy-3/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-		
-					<wfw:commentRss>/vestibulum-sapin-prin-quam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Praesent libro se cursus ante</title>
-		<link>/praesent-libro-se-cursus-ante/</link>
-					<comments>/praesent-libro-se-cursus-ante/#respond</comments>
-		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
-		<pubDate>Tue, 03 May 2016 20:23:47 +0000</pubDate>
-				<category><![CDATA[Sport]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/sport/torquent-per-conubia-nostra-copy-4/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-		
-					<wfw:commentRss>/praesent-libro-se-cursus-ante/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Metus vitae pharetra auctor</title>
-		<link>/metus-vitae-pharetra-auctor/</link>
-					<comments>/metus-vitae-pharetra-auctor/#respond</comments>
-		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
-		<pubDate>Tue, 03 May 2016 20:23:46 +0000</pubDate>
-				<category><![CDATA[Sport]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/sport/torquent-per-conubia-nostra-copy-2/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-		
-					<wfw:commentRss>/metus-vitae-pharetra-auctor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Interdum magna augue eget</title>
-		<link>/interdum-magna-augue-eget/</link>
-					<comments>/interdum-magna-augue-eget/#respond</comments>
-		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
-		<pubDate>Tue, 03 May 2016 20:23:44 +0000</pubDate>
-				<category><![CDATA[Sport]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/sport/torquent-per-conubia-nostra-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-		
-					<wfw:commentRss>/interdum-magna-augue-eget/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Torquent per conubia nostra</title>
-		<link>/torquent-per-conubia-nostra/</link>
-					<comments>/torquent-per-conubia-nostra/#respond</comments>
-		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
-		<pubDate>Tue, 03 May 2016 15:40:14 +0000</pubDate>
-				<category><![CDATA[Sport]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/sport/?p=1</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-		
-					<wfw:commentRss>/torquent-per-conubia-nostra/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>

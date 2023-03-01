@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Mon première article WP	</title>
-	<atom:link href="/mon-premiere-article-wp/feed/" rel="self" type="application/rss+xml" />
-	<link>/mon-premiere-article-wp/</link>
+	<atom:link href="http://localhost/wordpress/mon-premiere-article-wp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/wordpress/mon-premiere-article-wp/</link>
 	<description>Bienvenue sur le site officiel de la mairie de Neuilly-le-Brignon</description>
 	<lastBuildDate>Sun, 26 Feb 2023 17:56:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Neuilly-le-Brignon-Admin		</title>
-		<link>/mon-premiere-article-wp/#comment-2</link>
+		<link>http://localhost/wordpress/mon-premiere-article-wp/#comment-2</link>
 
 		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 17:56:00 +0000</pubDate>
-		<guid isPermaLink="false">/?p=5#comment-2</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=5#comment-2</guid>
 
 					<description><![CDATA[test]]></description>
 			<content:encoded><![CDATA[<p>test</p>

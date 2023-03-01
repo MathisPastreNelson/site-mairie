@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Non classé &#8211; Neuilly-le-Brignon &#8211; Site officiel</title>
-	<atom:link href="/category/non-classe/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/wordpress/category/non-classe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/wordpress</link>
 	<description>Bienvenue sur le site officiel de la mairie de Neuilly-le-Brignon</description>
-	<lastBuildDate>Sun, 26 Feb 2023 17:55:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Mar 2023 21:42:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,42 +21,56 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/02/logo-100x100.jpg</url>
+	<url>http://localhost/wordpress/wp-content/uploads/2023/03/cropped-logo-32x32.png</url>
 	<title>Non classé &#8211; Neuilly-le-Brignon &#8211; Site officiel</title>
-	<link></link>
+	<link>http://localhost/wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Mon première article WP</title>
-		<link>/mon-premiere-article-wp/</link>
-					<comments>/mon-premiere-article-wp/#comments</comments>
+		<title>Test d&#8217;article 01/03/232</title>
+		<link>http://localhost/wordpress/test-darticle-01-03-23/</link>
 		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
+		<dc:creator><![CDATA[Mairie de Neuilly-le-Brignon]]></dc:creator>
+		<pubDate>Wed, 01 Mar 2023 21:39:59 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=999</guid>
+
+					<description><![CDATA[on essai d&#8217;écrire ici 2 Et ici]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mon première article WP</title>
+		<link>http://localhost/wordpress/mon-premiere-article-wp/</link>
+					<comments>http://localhost/wordpress/mon-premiere-article-wp/#comments</comments>
+		
+		<dc:creator><![CDATA[Mairie de Neuilly-le-Brignon]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 17:55:45 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">/?p=5</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=5</guid>
 
 					<description><![CDATA[Wow]]></description>
 		
-					<wfw:commentRss>/mon-premiere-article-wp/feed/</wfw:commentRss>
+					<wfw:commentRss>http://localhost/wordpress/mon-premiere-article-wp/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bonjour tout le monde !</title>
-		<link>/bonjour-tout-le-monde/</link>
-					<comments>/bonjour-tout-le-monde/#comments</comments>
+		<link>http://localhost/wordpress/bonjour-tout-le-monde/</link>
+					<comments>http://localhost/wordpress/bonjour-tout-le-monde/#comments</comments>
 		
-		<dc:creator><![CDATA[Neuilly-le-Brignon-Admin]]></dc:creator>
+		<dc:creator><![CDATA[Mairie de Neuilly-le-Brignon]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 17:49:41 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
 
 					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !]]></description>
 		
-					<wfw:commentRss>/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>http://localhost/wordpress/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
